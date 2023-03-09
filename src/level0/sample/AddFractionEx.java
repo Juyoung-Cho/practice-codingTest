@@ -1,5 +1,6 @@
 package level0.sample;
 //분수의 덧셈을 기약분수로 나타내기.
+//프로그래머스 0레벨
 public class AddFractionEx {
 	public int[] solution(int numer1, int denom1, int numer2, int denom2) {
         int[] answer = {numer1*denom2+denom1*numer2,denom1*denom2};
