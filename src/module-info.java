@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wndud
+ *
+ */
+module CodingTest {
+}
